@@ -1,0 +1,1 @@
+# katakoda-create-CW20-Token-Terra
